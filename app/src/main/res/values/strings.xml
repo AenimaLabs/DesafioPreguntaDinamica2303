@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProfesorCascarrabias</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pregunta_frag">Pregunta</string>
+    <string name="categoria_frag">Categoría</string>
+    <string name="dificultad_frag">Dificultad</string>
+    <string name="boton_frag">Revisar</string>
+    <string name="verdadero_frag">Verdadero</string>
+    <string name="falso_frag">Falso</string>
+
+
+    <string name="error_gson">Error al cargar la pregunta</string>
+
+</resources>
